@@ -1,3 +1,3 @@
 # Test-Task
 
-https://geogebra-jira.atlassian.net/l/c/4p1kvMiX
+Test task implementation for iOS developer recruitment 2022
